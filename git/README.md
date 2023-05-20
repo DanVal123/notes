@@ -5,7 +5,7 @@ I would like to find a convenient workflow that works for me when working on a p
 To clone or bring a local repo up to date:
 
 * `git clone https://...`: Clone a repo to my local computer
-* `git pull https://...`: Pull the repo from GitHub to the local repo on my compter.
+* `git pull https://...`: Pull the repo from GitHub to the local repo on my computer.
 
 To stage and commit some changes
 
