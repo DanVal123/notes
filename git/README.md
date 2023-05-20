@@ -26,7 +26,7 @@ To push the changes from the local computer to GitHub
 
 # Git
 
-At the beginning, I had issues using the command `git push origin main`.  I was getting an error and git was neither accepting my password or a key.  The [solution](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#git-credential-manager) I found consists in typing the following two commands in a terminal
+At the beginning, I had issues using the command `git push origin main`.  I was getting an error and git was neither accepting my password nor a key.  The [solution](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#git-credential-manager) I found consists in typing the following two commands in a terminal
 ```
 $ brew tap microsoft/git
 $ brew install --cask git-credential-manager-core
